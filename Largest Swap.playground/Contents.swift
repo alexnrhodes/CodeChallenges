@@ -1,6 +1,6 @@
 import UIKit
 
-
+// Checking to see if the original number is greater than the swapped number
 func largestNumberSwap(number: Int) -> Bool {
     
     let number = String(number)
@@ -34,3 +34,5 @@ print(largestNumberSwap(number: 43))
 print(largestNumberSwap(number: 14))
 print(largestNumberSwap(number: 53))
 print(largestNumberSwap(number: 99))
+
+
